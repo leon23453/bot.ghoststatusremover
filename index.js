@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Department of Internal Affairs","Always Watching"];
+const statusMessages = ["Creator Core","Always Watching"];
 
 
 let currentIndex = 0;
